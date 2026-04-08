@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-04-07 22:30:25 BRT",
+  "lastUpdated": "2026-04-07 23:00:09 BRT",
   "gateway": {
     "status": "error",
     "version": "2026.4.1"
   },
   "system": {
     "disk": "42%",
-    "memory": "2.5Gi/7.8Gi",
-    "uptime": "4 days, 8 hours, 38 minutes"
+    "memory": "1.8Gi/7.8Gi",
+    "uptime": "4 days, 9 hours, 8 minutes"
   },
   "crons": {
     "total": 0,
